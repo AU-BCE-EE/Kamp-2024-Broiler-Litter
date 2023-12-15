@@ -1,5 +1,5 @@
 # Kamp-2024-Broiler-Litter
-Data and analysis on investigatation of interference on CRDS instruments.
+Data and analysis from study on emissions of NH3 and GHGs from broiler litter. 
 
 # Maintainer
 Jesper Nørlem Kamp.
