@@ -21,23 +21,21 @@ The scripts run in MATLAB R2023b and require several add-on packages.
 
 # Directory structure
 
-## `xx`
-Measurement data and scripts 
 
-## `xx`
-Measurement data and scripts 
+## `MAT files`
+.mat files with data files used by script `MAPI2023.m`to produce figures and tables.
 
 # Links to paper
 This section give the sources of tables and figures presented in the paper.
 
-**Figure 1** is generated with
+**Figure 1** is generated with MATLAB, see script `MAPI2023.m` Line 112.
 
-**Figure 2** is generated with 
+**Figure 2** is generated with MATLAB, see script `MAPI2023.m` Line 208.
 
-**Figure 3** is generated with 
+**Figure 3** is generated with MATLAB, see script `MAPI2023.m` Line 154.
 
-**Table 1** 
+**Table 1** see `Manure analysis\Analysis.xlxs`.
 
-**Table 2** 
+**Table 2** is generated with data from MATLAB, see script `MAPI2023.m` Line 62. See also `stats_table.xlxs` where the table is shown. 
 
-**Table 3** 
+**Table 3** see `stats_table.xlxs`. 
