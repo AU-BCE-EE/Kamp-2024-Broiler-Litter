@@ -21,6 +21,12 @@ The scripts run in MATLAB R2023b and require several add-on packages.
 
 # Directory structure
 
+## `Calc`
+`MAPI2023.m` is used to produce figures.
+`stats_table.xlxs` is used for `Figure 3`.
+
+## `Manure analysis`
+`Analysis.xlxs` contains laboratory results from manure analysis.
 
 ## `MAT files`
 .mat files with data files used by script `MAPI2023.m`to produce figures and tables.
