@@ -3,12 +3,12 @@ Data and analysis from study on emissions of NH3 and GHGs from broiler litter.
 
 # Maintainer
 Jesper Nørlem Kamp.
-Contact information here: <https://au.dk/jk@bce>.
+Contact information here: <https://au.dk/jk@bce.au.dk>.
 
 # Contributors
-Jesper Nørlem Kamp <https://au.dk/jk@bce>
+Jesper Nørlem Kamp <https://au.dk/jk@bce.au.dk>
 
-Anders Feilberg <https://au.dk/af@bce>
+Anders Feilberg <https://au.dk/af@bce.au.dk>
 
 # Submitted paper
 The contents of this repo are presented in the following manuscript:
