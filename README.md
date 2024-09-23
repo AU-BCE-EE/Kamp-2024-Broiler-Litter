@@ -34,11 +34,11 @@ The scripts run in MATLAB R2023b and require several add-on packages.
 # Links to paper
 This section give the sources of tables and figures presented in the paper.
 
-**Figure 1** is generated with MATLAB, see script `MAPI2023.m` Line 112.
+**Figure 2** is generated with MATLAB, see script `MAPI2023.m` Line 112.
 
-**Figure 2** is generated with MATLAB, see script `MAPI2023.m` Line 208.
+**Figure 3** is generated with MATLAB, see script `MAPI2023.m` Line 208.
 
-**Figure 3** is generated with MATLAB, see script `MAPI2023.m` Line 154.
+**Figure 4** is generated with MATLAB, see script `MAPI2023.m` Line 154.
 
 **Table 1** see `Manure analysis\Analysis.xlxs`.
 
