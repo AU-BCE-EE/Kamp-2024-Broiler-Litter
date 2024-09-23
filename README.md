@@ -23,7 +23,7 @@ The scripts run in MATLAB R2023b and require several add-on packages.
 
 ## `Calc`
 `MAPI2023.m` is used to produce figures.
-`stats_table.xlxs` is used for `Figure 3`.
+`stats_table.xlxs` is used for `Figure 4`.
 
 ## `Manure analysis`
 `Analysis.xlxs` contains laboratory results from manure analysis.
