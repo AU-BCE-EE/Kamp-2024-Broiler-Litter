@@ -11,9 +11,9 @@ Jesper Nørlem Kamp <https://au.dk/jk@bce.au.dk>
 Anders Feilberg <https://au.dk/af@bce.au.dk>
 
 # Submitted paper
-The contents of this repo are presented in the following manuscript:
+The contents of this repo are presented in the following paper published in Biosystems Engineering:
 
-Kamp, J., N., Feilberg, A. Ammonia, methane, and nitrous oxide emissions from stockpiled broiler litter
+Kamp, J., N., Feilberg, A. Ammonia, methane, and nitrous oxide emissions from stockpiled broiler litter, Biosystems Engineering 248 (2024) 73–81. https://doi.org/10.1016/j.biosystemseng.2024.10.002
 
 # Overview
 This repo contains data and data processing scripts needed to produce the results presented in the paper listed above.
